@@ -1,0 +1,4 @@
+# Created at 2021-01-16T18:31:26.593
+Boot Manifest-JAR contains absolute paths in classpath 'E:\muizz\billingApp\target\test-classes'
+Hint: <argLine>-Djdk.net.URLClassPath.disableClassPathURLCheck=true</argLine>
+
